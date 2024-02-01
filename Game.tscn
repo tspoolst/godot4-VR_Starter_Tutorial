@@ -398,7 +398,7 @@ shadow_enabled = true
 directional_shadow_max_distance = 200.0
 
 [node name="XROrigin3D" type="XROrigin3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0.177191, 14)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 1.7, 14)
 
 [node name="Player_Camera" type="XRCamera3D" parent="XROrigin3D"]
 current = true
