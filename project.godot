@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="quest2-baseSetup"
-run/main_scene="res://main.tscn"
+config/name="VR_Starter_Tutorial"
+run/main_scene="res://Game.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 
